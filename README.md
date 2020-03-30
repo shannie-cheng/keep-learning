@@ -1,5 +1,1 @@
-# shanniecheng522-gmail.com
-# shanniecheng522-gmail.com
-# shanniecheng522-gmail.com
-# keep-learning
-# keep-learning
+## This repository is used to keep track of all the learnings I have done and projects I have
